@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path = node_modules 
+  url = git://github.com/nazeeronline/dreamchatroom/
